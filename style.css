@@ -222,7 +222,7 @@ section .title::after{
 }
 .about .about-content .right .text span{
     color: rgb(247, 133, 133);
-    font-size: 32px;
+    font-size: 29px;
 }
 .about .about-content .right p{
     text-align: justify;
